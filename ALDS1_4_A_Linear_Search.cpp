@@ -1,3 +1,6 @@
+// ALDS1_4_A Linear Search
+// https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_A
+
 #include <stdio.h>
 
 // 선형 탐색
