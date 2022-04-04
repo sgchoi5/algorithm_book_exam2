@@ -1,4 +1,4 @@
-// ADLS1_7_C Tree Walk
+// ALDS1_7_C Tree Walk
 // https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_7_C
 
 #include <stdio.h>
