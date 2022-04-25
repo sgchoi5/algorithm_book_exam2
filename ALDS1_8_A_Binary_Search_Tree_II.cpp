@@ -1,4 +1,4 @@
-// ALDS1_8_A Binary Search Tree II
+// ALDS1_8_B Binary Search Tree II
 // https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_8_B
 
 #include <stdio.h>
