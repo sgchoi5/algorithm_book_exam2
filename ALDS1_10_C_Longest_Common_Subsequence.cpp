@@ -6,9 +6,10 @@
 #include<algorithm>
 using namespace std;
 static const int N = 1000;
+int c[N + 1][N + 1];
 
 int lcs(string X, string Y) {
-	int c[N + 1][N + 1];
+	// int c[N + 1][N + 1]; Visual Studio 에서 스택 크기를 늘여야 정상동작 하기 때문에 전역 변수로 선언 
 	int m = X.size();
 	int n = Y.size();
 	int maxl = 0;
