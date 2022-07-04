@@ -1,4 +1,4 @@
-// ALDS1_11_A Minimum Spanning Tree
+// ALDS1_12_A Minimum Spanning Tree
 // https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_12_A
 
 #include <iostream>
